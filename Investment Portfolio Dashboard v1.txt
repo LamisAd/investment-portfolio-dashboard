@@ -1,0 +1,7 @@
+An imaginary financial portfolio was created to track and analyze a dashboard in Microsoft Excel.
+
+The concentration was on Calculating Portfolio returns, profit/loss, asset allocation and sector exposure.
+
+Used XLOOKUP, Pivot Tables, conditional formatting, KPI reporting and data visualization techniques.
+
+Developed interactive charts to analyze portfolio diversification and sector concentration.
